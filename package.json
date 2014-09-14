@@ -1,0 +1,9 @@
+{
+	"name": "Monkey Chat",
+	"description": "Chat für Monkey Universe",
+	"author": "mk_admin",
+	"dependencies" : {
+		"express": "3.x",
+		"socket.io": "*"
+	}
+}
